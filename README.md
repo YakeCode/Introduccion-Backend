@@ -14,4 +14,16 @@ https://http.cat/
 
 **500 :** Estos códigos ayudan a identificar problemas cuando un servidor no puede procesar correctamente una solicitud debido a un error interno o de comunicación con otros servidores.
 
-Curso de introduccion al Back-end Platzi
+---
+
+# CRUD y métodos http
+
+**Create :** POST -> Crear
+
+**Read :** GET -> Leer
+
+**Update :** PUT/PATCH -> Put actualiza todos los datos de la entidad, Patch -> solo envió los datos que se están actualizando
+
+**Delete :** DELETE -> Eliminar
+
+Curso de introducción al Back-end Platzi
