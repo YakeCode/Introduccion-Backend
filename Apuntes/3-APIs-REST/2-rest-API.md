@@ -28,3 +28,9 @@ EndPoint	Method	Body	Response	status
 /products/:id	DELETE	N/A	true / false	201
 ----------------------------------------------------
 ```
+
+# IMSOMNIA
+
+plataforma para utilizar y probar APIs
+
+Para utilizar facilmente esta erranmienta vamos a ->New collection -> new http request
